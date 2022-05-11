@@ -1,3 +1,31 @@
 #nav-bar a img{
     width:300px;
 }
+#nav-bar ul li{
+    padding: 0 15px;
+ }
+ 
+ #nav-bar ul li a{
+    font-size: 1.3rem;
+ }
+ 
+ #home{
+     margin-top: 200px;
+ }
+   
+ #form{
+     width: 600px;
+     margin: 0 auto;
+     text-align: center;
+ }
+ #email{
+     width: 100%;
+ }
+ 
+ #features{
+     width: 800px;
+     margin: 0 auto;
+ }
+ #feature1{
+     margin-top: 120px;
+ }
